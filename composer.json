@@ -1,0 +1,18 @@
+{
+    "name": "mikenewbuild/cloudflare",
+    "description": "Utils for dealing with Cloudflare API",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mikenewbuild\\Cloudflare\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mike Fallows",
+            "email": "43390704+mikenewbuild@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
